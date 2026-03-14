@@ -4,3 +4,4 @@
 - Igor César
 - Cauã Vilela
 - João Elias
+- José Isaack
